@@ -1,0 +1,4 @@
+/home/vezzali/Desktop/code/network/build/CMakeFiles/client.dir
+/home/vezzali/Desktop/code/network/build/CMakeFiles/server.dir
+/home/vezzali/Desktop/code/network/build/CMakeFiles/edit_cache.dir
+/home/vezzali/Desktop/code/network/build/CMakeFiles/rebuild_cache.dir
